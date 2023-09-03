@@ -1,0 +1,3 @@
+C:/Users/siegf/Desktop/picojson/cmake-build-debug/CMakeFiles/picojson.dir
+C:/Users/siegf/Desktop/picojson/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/siegf/Desktop/picojson/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+# ninja log v5
+1	64	7149341326610779	CMakeFiles/picojson.dir/main.c.obj	9f637407e7c65a30
+1	86	7149343106476067	build.ninja	65a75fac1bfcedb6
+1	54	7149341418632045	CMakeFiles/picojson.dir/picojson.c.obj	b06f2ea0be023daa
+54	128	7149341419335857	picojson.exe	969a86654bf22a08
+2	62	7149344346462779	CMakeFiles/picojson.dir/main.c.obj	9f637407e7c65a30
+63	141	7149344347194948	picojson.exe	969a86654bf22a08
+7	66	7149351619754560	CMakeFiles/picojson.dir/picojson.c.obj	b06f2ea0be023daa
+2	67	7149351619754560	CMakeFiles/picojson.dir/main.c.obj	9f637407e7c65a30
+67	145	7149351620511736	picojson.exe	969a86654bf22a08
+2	65	7149352874031052	CMakeFiles/picojson.dir/main.c.obj	9f637407e7c65a30
+66	145	7149352874790420	picojson.exe	969a86654bf22a08
+7	63	7149354894269510	CMakeFiles/picojson.dir/picojson.c.obj	b06f2ea0be023daa
+2	68	7149354894319395	CMakeFiles/picojson.dir/main.c.obj	9f637407e7c65a30
+68	145	7149354895047072	picojson.exe	969a86654bf22a08
+1	394	7153570718788305	CMakeFiles/picojson.dir/picojson.c.obj	b06f2ea0be023daa
+395	682	7153570721632705	picojson.exe	969a86654bf22a08
+7	71	7153587302342756	CMakeFiles/picojson.dir/picojson.c.obj	b06f2ea0be023daa
+2	92	7153587302551490	CMakeFiles/picojson.dir/main.c.obj	9f637407e7c65a30
+92	180	7153587303397521	picojson.exe	969a86654bf22a08
